@@ -53,7 +53,7 @@ export const PROJECTS: Project[] = [
       lightColor: 0xffaa00
     },
     featured: true,
-    githubUrl: 'https://github.com/renjithsreenivasan/vintage-vault',
+    githubUrl: 'https://github.com/RenjithSreenivasan/vintage-vault',
     liveUrl: '#',
     stats: '150+ Heritage Lots Managed',
     systemArchitecture: [
@@ -91,7 +91,7 @@ export const PROJECTS: Project[] = [
       lightColor: 0x06b6d4
     },
     featured: true,
-    githubUrl: 'https://github.com/renjithsreenivasan/workfinder-ai',
+    githubUrl: 'https://github.com/RenjithSreenivasan/workfinder-ai',
     liveUrl: '#',
     stats: '5,000+ Profiles Indexed',
     systemArchitecture: [
@@ -129,7 +129,7 @@ export const PROJECTS: Project[] = [
       lightColor: 0x10b981
     },
     featured: true,
-    githubUrl: 'https://github.com/renjithsreenivasan/busfinder-transit',
+    githubUrl: 'https://github.com/RenjithSreenivasan/busfinder-transit',
     liveUrl: '#',
     stats: '12 Transit Corridors Covered',
     systemArchitecture: [
@@ -167,7 +167,7 @@ export const PROJECTS: Project[] = [
       lightColor: 0x8b5cf6
     },
     featured: true,
-    githubUrl: 'https://github.com/renjithsreenivasan/student-portal',
+    githubUrl: 'https://github.com/RenjithSreenivasan/student-portal',
     liveUrl: '#',
     stats: '2,400+ Active Students',
     systemArchitecture: [
@@ -205,7 +205,7 @@ export const PROJECTS: Project[] = [
       lightColor: 0xf43f5e
     },
     featured: false,
-    githubUrl: 'https://github.com/renjithsreenivasan/calisthenics-fitpulse',
+    githubUrl: 'https://github.com/RenjithSreenivasan/calisthenics-fitpulse',
     liveUrl: '#',
     stats: '300+ Exercise Progressions',
     systemArchitecture: [

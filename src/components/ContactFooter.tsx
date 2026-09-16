@@ -210,7 +210,7 @@ export const ContactFooter: React.FC<ContactFooterProps> = ({
           {/* Social Links */}
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/renjithsreenivasan"
+              href="https://github.com/RenjithSreenivasan"
               target="_blank"
               rel="noopener noreferrer"
               onClick={onPlayClick}

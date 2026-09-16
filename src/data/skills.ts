@@ -81,7 +81,7 @@ export const TERMINAL_COMMANDS: Record<string, string | string[]> = {
   ],
   contact: [
     'Email   : renjithsreenivasan.dev@gmail.com',
-    'GitHub  : https://github.com/renjithsreenivasan',
+    'GitHub  : https://github.com/RenjithSreenivasan',
     'LinkedIn: https://linkedin.com/in/renjith-sreenivasan',
     'Location: Available globally for remote & select on-site roles'
   ],
